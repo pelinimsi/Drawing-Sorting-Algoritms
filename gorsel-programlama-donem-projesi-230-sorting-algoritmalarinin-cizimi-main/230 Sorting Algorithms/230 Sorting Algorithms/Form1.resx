@@ -1,0 +1,435 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panel1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>24, 22</value>
+  </data>
+  <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>570, 570</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panel1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panel1.Name" xml:space="preserve">
+    <value>panel1</value>
+  </data>
+  <data name="&gt;&gt;panel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panel1.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="listBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Sitka Small, 9pt, style=Bold</value>
+  </data>
+  <data name="listBox1.ItemHeight" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="listBox1.Items" xml:space="preserve">
+    <value>Bubble Sort</value>
+  </data>
+  <data name="listBox1.Items1" xml:space="preserve">
+    <value>Selection Sort</value>
+  </data>
+  <data name="listBox1.Items2" xml:space="preserve">
+    <value>Insertion Sort</value>
+  </data>
+  <data name="listBox1.Items3" xml:space="preserve">
+    <value>Quick Sort</value>
+  </data>
+  <data name="listBox1.Items4" xml:space="preserve">
+    <value>Counting Sort</value>
+  </data>
+  <data name="listBox1.Items5" xml:space="preserve">
+    <value>Radix Sort</value>
+  </data>
+  <data name="listBox1.Items6" xml:space="preserve">
+    <value>Bucket Sort</value>
+  </data>
+  <data name="listBox1.Items7" xml:space="preserve">
+    <value>Heap Sort</value>
+  </data>
+  <data name="listBox1.Items8" xml:space="preserve">
+    <value>Shell Sort</value>
+  </data>
+  <data name="listBox1.Items9" xml:space="preserve">
+    <value>Shaker Sort</value>
+  </data>
+  <data name="listBox1.Items10" xml:space="preserve">
+    <value>Stooge Sort</value>
+  </data>
+  <data name="listBox1.Items11" xml:space="preserve">
+    <value>Comb Sort</value>
+  </data>
+  <data name="listBox1.Items12" xml:space="preserve">
+    <value>Gnome Sort</value>
+  </data>
+  <data name="listBox1.Items13" xml:space="preserve">
+    <value>Coctail Sort</value>
+  </data>
+  <data name="listBox1.Items14" xml:space="preserve">
+    <value>Double Bubble S.</value>
+  </data>
+  <data name="listBox1.Items15" xml:space="preserve">
+    <value>Db.    Selection S.</value>
+  </data>
+  <data name="listBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>618, 12</value>
+  </data>
+  <data name="listBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 288</value>
+  </data>
+  <data name="listBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Name" xml:space="preserve">
+    <value>listBox1</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox1.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="Submit.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="Submit.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Hobo Std, 47.999992pt, style=Bold</value>
+  </data>
+  <data name="Submit.Location" type="System.Drawing.Point, System.Drawing">
+    <value>618, 389</value>
+  </data>
+  <data name="Submit.Size" type="System.Drawing.Size, System.Drawing">
+    <value>244, 132</value>
+  </data>
+  <data name="Submit.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="Submit.Text" xml:space="preserve">
+    <value>Start</value>
+  </data>
+  <data name="&gt;&gt;Submit.Name" xml:space="preserve">
+    <value>Submit</value>
+  </data>
+  <data name="&gt;&gt;Submit.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;Submit.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;Submit.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="listBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Sitka Small, 9pt, style=Bold</value>
+  </data>
+  <data name="listBox2.ItemHeight" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="listBox2.Items" xml:space="preserve">
+    <value>Red</value>
+  </data>
+  <data name="listBox2.Items1" xml:space="preserve">
+    <value>Blue</value>
+  </data>
+  <data name="listBox2.Items2" xml:space="preserve">
+    <value>Orange</value>
+  </data>
+  <data name="listBox2.Items3" xml:space="preserve">
+    <value>White</value>
+  </data>
+  <data name="listBox2.Items4" xml:space="preserve">
+    <value>Pink</value>
+  </data>
+  <data name="listBox2.Items5" xml:space="preserve">
+    <value>Purple</value>
+  </data>
+  <data name="listBox2.Items6" xml:space="preserve">
+    <value>Yellow</value>
+  </data>
+  <data name="listBox2.Items7" xml:space="preserve">
+    <value>Green</value>
+  </data>
+  <data name="listBox2.Items8" xml:space="preserve">
+    <value>Cyan</value>
+  </data>
+  <data name="listBox2.Items9" xml:space="preserve">
+    <value>Magenta</value>
+  </data>
+  <data name="listBox2.Items10" xml:space="preserve">
+    <value>Aqua</value>
+  </data>
+  <data name="listBox2.Items11" xml:space="preserve">
+    <value>Brown</value>
+  </data>
+  <data name="listBox2.Items12" xml:space="preserve">
+    <value>Chocolate</value>
+  </data>
+  <data name="listBox2.Items13" xml:space="preserve">
+    <value>Dark Blue</value>
+  </data>
+  <data name="listBox2.Items14" xml:space="preserve">
+    <value>Bisque</value>
+  </data>
+  <data name="listBox2.Items15" xml:space="preserve">
+    <value>Dark Gray</value>
+  </data>
+  <data name="listBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>743, 12</value>
+  </data>
+  <data name="listBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 288</value>
+  </data>
+  <data name="listBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;listBox2.Name" xml:space="preserve">
+    <value>listBox2</value>
+  </data>
+  <data name="&gt;&gt;listBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ListBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;listBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;listBox2.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="button1.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="button1.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="button1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Hobo Std, 26.25pt, style=Bold</value>
+  </data>
+  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>618, 527</value>
+  </data>
+  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>244, 85</value>
+  </data>
+  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="button1.Text" xml:space="preserve">
+    <value>Close</value>
+  </data>
+  <data name="&gt;&gt;button1.Name" xml:space="preserve">
+    <value>button1</value>
+  </data>
+  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="refresh_button.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="refresh_button.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="refresh_button.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Hobo Std, 11.999998pt, style=Bold</value>
+  </data>
+  <data name="refresh_button.Location" type="System.Drawing.Point, System.Drawing">
+    <value>618, 304</value>
+  </data>
+  <data name="refresh_button.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 79</value>
+  </data>
+  <data name="refresh_button.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="refresh_button.Text" xml:space="preserve">
+    <value>Refresh</value>
+  </data>
+  <data name="&gt;&gt;refresh_button.Name" xml:space="preserve">
+    <value>refresh_button</value>
+  </data>
+  <data name="&gt;&gt;refresh_button.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;refresh_button.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;refresh_button.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="speed_bar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>819, 12</value>
+  </data>
+  <data name="speed_bar.Orientation" type="System.Windows.Forms.Orientation, System.Windows.Forms">
+    <value>Vertical</value>
+  </data>
+  <data name="speed_bar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>45, 371</value>
+  </data>
+  <data name="speed_bar.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;speed_bar.Name" xml:space="preserve">
+    <value>speed_bar</value>
+  </data>
+  <data name="&gt;&gt;speed_bar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TrackBar, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;speed_bar.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;speed_bar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="speed_label.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 15.75pt, style=Bold</value>
+  </data>
+  <data name="speed_label.Location" type="System.Drawing.Point, System.Drawing">
+    <value>743, 304</value>
+  </data>
+  <data name="speed_label.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 58</value>
+  </data>
+  <data name="speed_label.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="speed_label.Text" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="speed_label.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;speed_label.Name" xml:space="preserve">
+    <value>speed_label</value>
+  </data>
+  <data name="&gt;&gt;speed_label.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;speed_label.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;speed_label.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="speed_label_speed.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Stencil Std, 11.999998pt, style=Bold</value>
+  </data>
+  <data name="speed_label_speed.Location" type="System.Drawing.Point, System.Drawing">
+    <value>743, 362</value>
+  </data>
+  <data name="speed_label_speed.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 21</value>
+  </data>
+  <data name="speed_label_speed.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="speed_label_speed.Text" xml:space="preserve">
+    <value>Speed</value>
+  </data>
+  <data name="&gt;&gt;speed_label_speed.Name" xml:space="preserve">
+    <value>speed_label_speed</value>
+  </data>
+  <data name="&gt;&gt;speed_label_speed.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;speed_label_speed.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;speed_label_speed.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>876, 624</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>Off</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Sorting Algorithms</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>

@@ -1,0 +1,105 @@
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.exe
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.deps.json
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.runtimeconfig.json
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Form1.resources
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.GenerateResource.cache
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfo.cs
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\refint\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.genruntimeconfig.cache
+C:\Users\Halil Özgökçe\Source\Repos\Iskenderun-Technical-University\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\ref\230 Sorting Algorithms.dll
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.AssemblyReference.cache
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Form1.resources
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.GenerateResource.cache
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfoInputs.cache
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfo.cs
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.CoreCompileInputs.cache
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.dll
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\refint\230 Sorting Algorithms.dll
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+G:\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.exe
+G:\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.deps.json
+G:\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.runtimeconfig.json
+G:\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.dll
+G:\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.genruntimeconfig.cache
+G:\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\ref\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Form1.resources
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.GenerateResource.cache
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfo.cs
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\refint\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.exe
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.deps.json
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.runtimeconfig.json
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.genruntimeconfig.cache
+C:\Users\jnjat\Desktop\Yeni klasör\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\ref\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.exe
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.deps.json
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.runtimeconfig.json
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Form1.resources
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.GenerateResource.cache
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfo.cs
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\refint\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.genruntimeconfig.cache
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\ref\230 Sorting Algorithms.dll
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.exe
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.deps.json
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.runtimeconfig.json
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Form1.resources
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Properties.Resources.resources
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.GenerateResource.cache
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfo.cs
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\refint\230 Sorting Algorithms.dll
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.genruntimeconfig.cache
+C:\Users\acarp\OneDrive\Masaüstü\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\ref\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.exe
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.deps.json
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.runtimeconfig.json
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\bin\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.AssemblyReference.cache
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Form1.resources
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Properties.Resources.resources
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.GenerateResource.cache
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfoInputs.cache
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.AssemblyInfo.cs
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\refint\230 Sorting Algorithms.dll
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.pdb
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\230 Sorting Algorithms.genruntimeconfig.cache
+C:\Users\jnjat\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\ref\230 Sorting Algorithms.dll
+C:\Users\Halil Özgökçe\Desktop\gorsel-programlama-donem-projesi-230-sorting-algoritmalarinin-cizimi-main\230 Sorting Algorithms\230 Sorting Algorithms\obj\Debug\net6.0-windows\_230_Sorting_Algorithms.Properties.Resources.resources
